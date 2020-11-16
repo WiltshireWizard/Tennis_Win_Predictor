@@ -37,7 +37,7 @@ I tried four different models and evaluated their performance using accuracy:
  
  * **Logistic Regression:** accuracy = 67%
  * **Random Forest:** accuracy = 69%
- * **Gradient Bossting Classifier:** accuracy = 72%
+ * **Gradient Boosting Classifier:** accuracy = 72%
  * **Neural Network:** accuracy = 75%
  
  The best performance came from the neural network.
